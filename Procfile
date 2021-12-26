@@ -1,1 +1,1 @@
-web: gunicorn student.wsgi:application --log-file-
+web: gunicorn student.wsgi:application
